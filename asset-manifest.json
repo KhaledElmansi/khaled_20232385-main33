@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio-website/static/css/main.0912a601.css",
-    "main.js": "/portfolio-website/static/js/main.4f1d7f38.js",
-    "static/js/453.561a5237.chunk.js": "/portfolio-website/static/js/453.561a5237.chunk.js",
-    "static/media/khaled-cv.pdf.pdf": "/portfolio-website/static/media/khaled-cv.pdf.b9afc68cf856e31eb22b.pdf",
-    "static/media/space.jpg": "/portfolio-website/static/media/space.c81ed25b7df023b7f919.jpg",
-    "static/media/astroo.jpg": "/portfolio-website/static/media/astroo.f646aafcacb14378dbf1.jpg",
-    "static/media/revicons.eot": "/portfolio-website/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/portfolio-website/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/revicons.woff": "/portfolio-website/static/media/revicons.e8746a624ed098489406.woff",
-    "static/media/meter22.svg": "/portfolio-website/static/media/meter22.a0050a378a929877ac8144049ee0a1bf.svg",
-    "static/media/meter11.svg": "/portfolio-website/static/media/meter11.c61a2fc3fdd79d551b751c6c0f890ab6.svg",
-    "static/media/meter33.svg": "/portfolio-website/static/media/meter33.2eda919df32db1af75a222eb99d3a931.svg",
-    "static/media/logo.svg": "/portfolio-website/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
-    "index.html": "/portfolio-website/index.html",
-    "main.0912a601.css.map": "/portfolio-website/static/css/main.0912a601.css.map",
-    "main.4f1d7f38.js.map": "/portfolio-website/static/js/main.4f1d7f38.js.map",
-    "453.561a5237.chunk.js.map": "/portfolio-website/static/js/453.561a5237.chunk.js.map"
+    "main.css": "/KhaledElmansi.github.io/portfolio-website/static/css/main.c8fcf223.css",
+    "main.js": "/KhaledElmansi.github.io/portfolio-website/static/js/main.abe63dfc.js",
+    "static/js/453.561a5237.chunk.js": "/KhaledElmansi.github.io/portfolio-website/static/js/453.561a5237.chunk.js",
+    "static/media/khaled-cv.pdf.pdf": "/KhaledElmansi.github.io/portfolio-website/static/media/khaled-cv.pdf.b9afc68cf856e31eb22b.pdf",
+    "static/media/space.jpg": "/KhaledElmansi.github.io/portfolio-website/static/media/space.c81ed25b7df023b7f919.jpg",
+    "static/media/astroo.jpg": "/KhaledElmansi.github.io/portfolio-website/static/media/astroo.f646aafcacb14378dbf1.jpg",
+    "static/media/revicons.eot": "/KhaledElmansi.github.io/portfolio-website/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/KhaledElmansi.github.io/portfolio-website/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/KhaledElmansi.github.io/portfolio-website/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter22.svg": "/KhaledElmansi.github.io/portfolio-website/static/media/meter22.a0050a378a929877ac8144049ee0a1bf.svg",
+    "static/media/meter11.svg": "/KhaledElmansi.github.io/portfolio-website/static/media/meter11.c61a2fc3fdd79d551b751c6c0f890ab6.svg",
+    "static/media/meter33.svg": "/KhaledElmansi.github.io/portfolio-website/static/media/meter33.2eda919df32db1af75a222eb99d3a931.svg",
+    "static/media/logo.svg": "/KhaledElmansi.github.io/portfolio-website/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
+    "index.html": "/KhaledElmansi.github.io/portfolio-website/index.html",
+    "main.c8fcf223.css.map": "/KhaledElmansi.github.io/portfolio-website/static/css/main.c8fcf223.css.map",
+    "main.abe63dfc.js.map": "/KhaledElmansi.github.io/portfolio-website/static/js/main.abe63dfc.js.map",
+    "453.561a5237.chunk.js.map": "/KhaledElmansi.github.io/portfolio-website/static/js/453.561a5237.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0912a601.css",
-    "static/js/main.4f1d7f38.js"
+    "static/css/main.c8fcf223.css",
+    "static/js/main.abe63dfc.js"
   ]
 }
