@@ -1,0 +1,262 @@
+.main-container {
+    background-image: url('./image/astroo.jpg'); 
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+}
+
+.banner {
+  margin-top:0;
+  padding: 80px 0 100px 0; 
+  color: rgb(255, 255, 255);
+}
+
+.tagline {
+  font-weight: 700;
+  padding: 8px 10px;
+  background: linear-gradient(90.21deg, rgba(170, 54, 124, 0.5) -5.91%, rgba(74, 47, 189, 0.5) 111.58%);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  font-size: 25px;
+  margin-bottom: 16px;
+  display: inline-block;
+}
+
+.banner h1 {
+  font-size: 60px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.banner p {
+  color: rgba(240, 248, 255, 0.781);
+  font-size: 18px;
+}
+
+.banner button.cnt {
+  background: transparent;
+  border: none;
+  color: white;
+  font-weight: 700;
+  font-size: 20px;
+  margin-top: 60px;
+  display: flex;
+  align-items: center;
+  padding: 0;
+}
+
+.skill {
+  padding: 0 0 60px 0;
+  position: relative;
+}
+
+.skill-bx {
+  background: #151515;
+  border-radius: 64px;
+  text-align: center;
+  padding: 60px 50px;
+  margin-top: -60px;
+}
+
+.skill h2 {
+	font-size: 45px;
+	font-weight: 700;
+  color: aliceblue;
+}
+
+.skill p {
+    color: #B8B8B8;
+    font-size: 18px;
+    letter-spacing: 0.8px;
+    line-height: 1.5em;
+    margin: 14px 0 75px 0;
+}
+
+.skill-slider {
+  width: 80%;
+  margin: 0 auto;
+  position: relative;
+}
+
+.skill-slider .item img {
+  width: 50%;
+  margin: 0 auto 15px auto;
+}
+
+.background-image-left {
+  top: 28%;
+  position: absolute;
+  bottom: 0;
+  width: 40%;
+  z-index: -4;
+}
+
+.skill h5 {
+  color: aliceblue;
+}
+
+
+.project {
+  background-color: #000000; 
+  color: #fff;
+}
+
+.project h2 {
+  font-size: 45px;
+  font-weight: 700;
+}
+
+.project p {
+  color: #B8B8B8;
+  width: 60%;
+  margin: 0 auto 55px auto;
+}
+
+.project .nav-pills {
+  width: 70%;
+  margin: 0 auto;
+  border-radius: 50px;
+  overflow: hidden;
+  border: 3px solid rgba(255, 255, 255, 0.3);
+}
+
+.project .nav-item {
+  width: 33%;
+}
+
+.project .nav-pills .nav-link {
+  padding: 17px;
+  color: #fff;;
+}
+
+.project .nav-pills .nav-link.active {
+  background:#7d2fbd;
+}
+
+.background-image-right {
+  top: 20%;
+  position: absolute;
+  z-index: -1;
+}
+
+.contact {
+  background:#2b2828;
+  padding: 60px;
+  color: #6200ff;
+}
+
+.contact img {
+  width: 90%;
+}
+
+.contact h2 {
+  font-size: 45px;
+}
+
+.contact form input, 
+.contact form textarea {
+  width: 100%;
+  background: rgba(255, 255, 255, 0.1); 
+  border-radius: 20px;
+  color: #fff;
+  margin: 0 0 8px 0;
+  padding: 18px 26px;
+}
+
+
+.contact form textarea:focus {
+  background: rgba(255, 255, 255, 0.2);
+  outline: none;
+}
+
+.contact form button {
+  color: #000;
+  background-color: #ffffff;
+  padding: 14px 48px;
+}
+
+
+.newsletter-bx {
+  background: #000000;
+  padding: 85px 125px; 
+  text-align: left;
+}
+
+.newsletter-bx h3 {
+  color:#ffffff
+}
+
+.new-email-bx {
+  background: #726868;
+  display: flex;
+}
+
+.new-email-bx input {
+  width: 100%;
+  color: #ffffff;
+  background: transparent;
+  border: none;
+  outline: none;
+  padding: 18px;
+}
+
+.new-email-bx button {
+  background:#6200ff ;
+  padding: 16px 55px;
+  color: #fff;
+  border: none;
+}
+
+
+.footer {
+  padding: 40px 0;
+  background-color: #121212; 
+  color: #ffffff;
+}
+
+
+.footer img {
+  width: 15%; 
+}
+
+
+.social-icon {
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+
+.social-icon a {
+  width: 42px;
+  height: 42px;
+  background: rgba(255, 255, 255, 0.1); 
+  display: inline-flex;
+  border-radius: 50%;
+  margin-left: 6px;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  transition: 0.3s ease-in-out;
+}
+
+
+.social-icon a:hover {
+  background-color: #ffffff;
+}
+
+
+.social-icon a img {
+  width: 60%; 
+  height: auto;
+  z-index: 1;
+}
+
+
+.footer p {
+  font-weight: 400;
+  font-size: 14px;
+  color: #b8b8b8; 
+  letter-spacing: 0.5px;
+  margin-top: 10px;
+}
+
