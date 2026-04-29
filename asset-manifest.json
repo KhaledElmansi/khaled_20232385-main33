@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/KhaledElmansi.github.io/portfolio-website/static/css/main.c8fcf223.css",
-    "main.js": "/KhaledElmansi.github.io/portfolio-website/static/js/main.abe63dfc.js",
-    "static/js/453.561a5237.chunk.js": "/KhaledElmansi.github.io/portfolio-website/static/js/453.561a5237.chunk.js",
-    "static/media/khaled-cv.pdf.pdf": "/KhaledElmansi.github.io/portfolio-website/static/media/khaled-cv.pdf.b9afc68cf856e31eb22b.pdf",
-    "static/media/space.jpg": "/KhaledElmansi.github.io/portfolio-website/static/media/space.c81ed25b7df023b7f919.jpg",
-    "static/media/astroo.jpg": "/KhaledElmansi.github.io/portfolio-website/static/media/astroo.f646aafcacb14378dbf1.jpg",
-    "static/media/revicons.eot": "/KhaledElmansi.github.io/portfolio-website/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/KhaledElmansi.github.io/portfolio-website/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/revicons.woff": "/KhaledElmansi.github.io/portfolio-website/static/media/revicons.e8746a624ed098489406.woff",
-    "static/media/meter22.svg": "/KhaledElmansi.github.io/portfolio-website/static/media/meter22.a0050a378a929877ac8144049ee0a1bf.svg",
-    "static/media/meter11.svg": "/KhaledElmansi.github.io/portfolio-website/static/media/meter11.c61a2fc3fdd79d551b751c6c0f890ab6.svg",
-    "static/media/meter33.svg": "/KhaledElmansi.github.io/portfolio-website/static/media/meter33.2eda919df32db1af75a222eb99d3a931.svg",
-    "static/media/logo.svg": "/KhaledElmansi.github.io/portfolio-website/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
-    "index.html": "/KhaledElmansi.github.io/portfolio-website/index.html",
-    "main.c8fcf223.css.map": "/KhaledElmansi.github.io/portfolio-website/static/css/main.c8fcf223.css.map",
-    "main.abe63dfc.js.map": "/KhaledElmansi.github.io/portfolio-website/static/js/main.abe63dfc.js.map",
-    "453.561a5237.chunk.js.map": "/KhaledElmansi.github.io/portfolio-website/static/js/453.561a5237.chunk.js.map"
+    "main.css": "/KhaledElmansi.github.io/khaled_20232385-main33/static/css/main.069b5323.css",
+    "main.js": "/KhaledElmansi.github.io/khaled_20232385-main33/static/js/main.2d6c4547.js",
+    "static/js/453.561a5237.chunk.js": "/KhaledElmansi.github.io/khaled_20232385-main33/static/js/453.561a5237.chunk.js",
+    "static/media/khaled-cv.pdf.pdf": "/KhaledElmansi.github.io/khaled_20232385-main33/static/media/khaled-cv.pdf.b9afc68cf856e31eb22b.pdf",
+    "static/media/space.jpg": "/KhaledElmansi.github.io/khaled_20232385-main33/static/media/space.c81ed25b7df023b7f919.jpg",
+    "static/media/astroo.jpg": "/KhaledElmansi.github.io/khaled_20232385-main33/static/media/astroo.f646aafcacb14378dbf1.jpg",
+    "static/media/revicons.eot": "/KhaledElmansi.github.io/khaled_20232385-main33/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/KhaledElmansi.github.io/khaled_20232385-main33/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/KhaledElmansi.github.io/khaled_20232385-main33/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter22.svg": "/KhaledElmansi.github.io/khaled_20232385-main33/static/media/meter22.a0050a378a929877ac8144049ee0a1bf.svg",
+    "static/media/meter11.svg": "/KhaledElmansi.github.io/khaled_20232385-main33/static/media/meter11.c61a2fc3fdd79d551b751c6c0f890ab6.svg",
+    "static/media/meter33.svg": "/KhaledElmansi.github.io/khaled_20232385-main33/static/media/meter33.2eda919df32db1af75a222eb99d3a931.svg",
+    "static/media/logo.svg": "/KhaledElmansi.github.io/khaled_20232385-main33/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
+    "index.html": "/KhaledElmansi.github.io/khaled_20232385-main33/index.html",
+    "main.069b5323.css.map": "/KhaledElmansi.github.io/khaled_20232385-main33/static/css/main.069b5323.css.map",
+    "main.2d6c4547.js.map": "/KhaledElmansi.github.io/khaled_20232385-main33/static/js/main.2d6c4547.js.map",
+    "453.561a5237.chunk.js.map": "/KhaledElmansi.github.io/khaled_20232385-main33/static/js/453.561a5237.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8fcf223.css",
-    "static/js/main.abe63dfc.js"
+    "static/css/main.069b5323.css",
+    "static/js/main.2d6c4547.js"
   ]
 }
